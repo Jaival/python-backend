@@ -33,14 +33,12 @@ print(my_string)
 print(my_boolean)
 ```
 
-
 **Example Files (Phase 1)**
 
 Here are examples for the first few files in Phase 1:
 
 **`python_roadmap/phase_1_fundamentals/1.1_variables_and_data_types.md`**
 
-```markdown
 # Task: Learn about variables and data types
 
 **Phase:** 1: Python Fundamentals
@@ -89,8 +87,6 @@ print(f"Price as integer: {price_integer}, Type: {type(price_integer)}") # Note:
 ```
 
 **`python_roadmap/phase_1_fundamentals/1.2_operators.md`**
-
-```markdown
 # Task: Understand operators
 
 **Phase:** 1: Python Fundamentals
@@ -113,7 +109,7 @@ Learn how to perform operations on variables and values using various Python ope
 *   Programiz - Python Operators: https://www.programiz.com/python-programming/operators
 *   Real Python - Python Operators and Expressions: https://realpython.com/python-operators-expressions/
 
-**Practice Exercises/Code Examples:**
+### Practice Exercises/Code Examples:
 
 ```python
 # Arithmetic operators
@@ -146,7 +142,6 @@ count = 0
 count += 1 # Equivalent to count = count + 1
 print(f"Count after increment: {count}")
 ```
-
 
 **Continuing for Other Tasks and Phases:**
 
